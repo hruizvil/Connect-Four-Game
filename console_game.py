@@ -1,8 +1,3 @@
-'''
-Name : Hugo Ruiz Villar & Hongyang Cai
-NetID: hruizvil & hongyac
-IDs #: 66212078 & 60232034
-'''
 import connect_four
 
 def welcome_banner():
